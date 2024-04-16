@@ -1,0 +1,3 @@
+﻿  addition of function libraries.cpp
+C:\Users\SSoni\Desktop\addition of function libraries\addition of function libraries\addition of function libraries.cpp(49,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  addition of function libraries.vcxproj -> C:\Users\SSoni\Desktop\addition of function libraries\x64\Debug\addition of function libraries.exe
